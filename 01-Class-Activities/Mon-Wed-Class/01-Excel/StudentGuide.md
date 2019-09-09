@@ -20,9 +20,40 @@
 
 ### Helpful Links
 
+#### Intro to Data Analytics
+* [Data and Analytics Dictionary](https://peterjamesthomas.com/data-and-analytics-dictionary/)
 * [Storytelling With Data](http://www.storytellingwithdata.com/)
+
+#### Working with Excel
 * [Excel Data Analysis](https://www.wiley.com/WileyCDA/WileyTitle/productCd-1118517148,miniSiteCd-BSG.html)
 * [Advanced Excel Essentials](https://www.apress.com/us/book/9781484207352)
+* [Working with Pivot Tables](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
+* [VLOOKUP function](https://support.office.com/en-us/article/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
+* [Understanding the Format Cells Dialog Box](https://support.microsoft.com/en-us/help/264372/how-to-control-and-understand-settings-in-the-format-cells-dialog-box)
+* [Trendlines in Excel](https://support.office.com/en-us/article/choosing-the-best-trendline-for-your-data-1bb3c9e7-0280-45b5-9ab0-d0c93161daa8)
+* [Regression Analysis in Excel](https://www.statisticshowto.datasciencecentral.com/excel-regression-analysis-output-explained/)
+* [Moving Average Explained](https://en.wikipedia.org/wiki/Moving_average)
+
+#### Working with Git
+* [Class Overview on Git, GitHub, and GitLab](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/GWARL201906DATA1/blob/master/03-Helpful-Resources/git-101.md)
+* [Introduction to Git](https://guides.github.com/activities/hello-world/)
+* [Helpful Git Command Line Functions](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101)
+* [Stashing Changes using `git stash`](https://git-scm.com/docs/git-stash)
+
+#### Pushing to GitHub
+Be sure to remember the following when pushing up to your GitHub repository:
+```
+git add .
+git commit -m "Your commit message here"
+git push
+```
+If you get a message indicating that you need to tell Git who you are, then you can also run the following command (replace the sample e-mail address with your own) and they rerun the commands above.
+
+`git config --global user.email "your@emailaddress.here"`
+
+#### Markdown
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
+* [Getting Started with Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 
 - - -
 
