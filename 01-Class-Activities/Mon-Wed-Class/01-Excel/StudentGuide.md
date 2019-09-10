@@ -35,7 +35,7 @@
 * [Moving Average Explained](https://en.wikipedia.org/wiki/Moving_average)
 
 #### Working with Git
-* [Class Overview on Git, GitHub, and GitLab](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/GWARL201906DATA1/blob/master/03-Helpful-Resources/git-101.md)
+* [Class Overview on Git, GitHub, and GitLab](https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/GWU-ARL-DATA-PT-09-2019-U-C/blob/master/05-Helpful-Resources/git-101.md)
 * [Introduction to Git](https://guides.github.com/activities/hello-world/)
 * [Helpful Git Command Line Functions](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101)
 * [Stashing Changes using `git stash`](https://git-scm.com/docs/git-stash)
