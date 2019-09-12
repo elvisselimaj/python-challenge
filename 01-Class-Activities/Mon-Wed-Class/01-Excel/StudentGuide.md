@@ -2,14 +2,20 @@
 
 ### Objectives
 
+##### Day 1
 * Gain perspective on the course structure and general direction of the program.
 * Gain exposure to the high-level analytic strategies and tools to be covered in class.
-* Feel fully proficient in basic Excel navigation and functionality
+
+##### Day 2
+* Work with a team on a research topic and learn about the analytics paradigm.
+* Feel fully proficient in basic Excel navigation and functionality.
+* Understand how to implement conditional formatting based on logical rules.
+
+##### Day 3
 * Gain familiarity with the value of Pivot Tables and the steps for their utilization.
 * Gain comfort utilizing VLookups and HLookups
-* Understand how to implement conditional formatting based on logical rules
-* Be able to make, modify, and style bar charts, line graphs, pie graphs, and scatter plots.
 * Understand how to filter data using Excel.
+* Be able to make, modify, and style bar charts, line graphs, pie graphs, and scatter plots.
 * Know how to calculate moving averages and regressions.
 * Create, modify, and stylize basic charts from scratch using Microsoft Excel.
 * Be comfortable creating scatter plots and trend lines.
@@ -21,13 +27,15 @@
 ### Helpful Links
 
 #### Intro to Data Analytics
-* [Data and Analytics Dictionary](https://peterjamesthomas.com/data-and-analytics-dictionary/)
+* [Data and Analytics Dictionary](https://peterjamesthomas.com/data-and-analytics-dictionary/): This is a very helpful glossary resource, created by Peter James Thomas, that defines most data concepts in a clear and straight-forward way.
 * [Storytelling With Data](http://www.storytellingwithdata.com/)
 
-#### Working with Excel
+#### Overview of with Excel
 * [Excel Data Analysis](https://www.wiley.com/WileyCDA/WileyTitle/productCd-1118517148,miniSiteCd-BSG.html)
 * [Advanced Excel Essentials](https://www.apress.com/us/book/9781484207352)
 * [Error messages explained in Excel](https://www.dummies.com/software/microsoft-office/excel/excel-error-messages-to-get-to-know)
+
+#### Excel Functions
 * [Working with Pivot Tables](https://support.office.com/en-us/article/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
 * [VLOOKUP function](https://support.office.com/en-us/article/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
 * [Understanding the Format Cells Dialog Box](https://support.microsoft.com/en-us/help/264372/how-to-control-and-understand-settings-in-the-format-cells-dialog-box)
