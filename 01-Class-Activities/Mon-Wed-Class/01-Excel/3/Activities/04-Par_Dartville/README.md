@@ -10,6 +10,7 @@ Have you ever been charged with creating one cohesive report and summary based o
 * Use conditional formatting to highlight the entire row for each individual diagnosed as "Fierce" in red
 * Use conditional formatting to highlight the _only the age cell_ for each individual that is 21 or under in green
 * Once you have populate all fields, convert the report into a formatted table
+* Create a new worksheet and filter out all but students over 25. Name the worksheet "Students over 25"
 * Produce a Pivot Table in a new worksheet that groups the data by diagnosis (get as creative as you want with this)
 
 _Work together as pairs. Since this is a special exercise, the first two winning pairs will receive a special award._
