@@ -1,6 +1,6 @@
 # Filtering Game Sales
 
-Now that we know how to apply filters to a spreadsheet and create charts based on filtered data sets, we'll take some time to create charts which compare the sales of publishers against one another. 
+Now that we know how to apply filters to a spreadsheet and create charts based on filtered data sets, we'll take some time to create charts which compare the sales of publishers against one another.
 
 ## Instructions
 
@@ -23,3 +23,5 @@ Now that we know how to apply filters to a spreadsheet and create charts based o
 3. Select all of the data on the worksheet and create a line chart which can be filtered by publisher, whose rows are set by a game's year of release, and whose values are the sum of global sales for that year.
 
 * Create a 2D line graph that charts this data.
+
+_This is a special task. The first pair to complete this will receive a special award._
