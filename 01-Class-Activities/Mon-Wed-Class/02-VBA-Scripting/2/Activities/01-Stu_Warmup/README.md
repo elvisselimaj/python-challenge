@@ -12,6 +12,8 @@
 
   * Part 3 (Challenge): If the total is over budget, correct the price such that it fits within the max of the user's budget. Be sure to round down! (Example: If the user's budget is 100 and the fees are 15%, the max price should 86)
 
+  **Add a button to perform the calculations. Also, refer to your cells by using Named Ranges.**
+
 ## Hints
 
 * Break up the problem into smaller steps.
