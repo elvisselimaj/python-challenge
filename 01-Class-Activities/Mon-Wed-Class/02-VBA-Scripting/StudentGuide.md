@@ -2,13 +2,19 @@
 
 ## Objectives
 
+
+### Day 1
 * Understand the fundamental building blocks of all programming languages: variables, arrays, conditionals, loops, and functions.
 * Create simple VBA macros to trigger pop ups and change cell values.
 * Gain practice in writing VBA subroutines that utilize variables and conditionals.
+
+### Day 2
 * Begin to develop essential coding skills of syntax recollection, pattern recognition, problem decomposition, and debugging.
 * Understand the basic syntax of a VBA for loop.
 * Understand how to utilize for-loops in conjunction with conditionals to direct logic flow.
 * Understand the value of a nested for-loop and gain basic proficiency in their use.
+
+### Day 3
 * Refine fundamental coding skills (syntax recollection, pattern recognition, problem decomposition, and debugging).
 * Be comfortable formatting spreadsheets using VBA code.
 * Understand how to loop through a table using VBA code and check for changes in values.
@@ -42,6 +48,9 @@ One limitation, not necessarily disadvantage is that VBA is designed for use wit
 * [Range Object and Working with Cells](https://docs.microsoft.com/en-us/office/vba/api/excel.range%28object%29)
 * [Range.End property - finding the cell at the end of a region](https://docs.microsoft.com/en-us/office/vba/api/excel.range.end)
 * [XlDirection](https://docs.microsoft.com/en-us/office/vba/api/excel.xldirection)
+
+#### Working with functions
+* [List of VBA Functions by Category](https://docs.microsoft.com/en-us/office/vba/access/concepts/criteria-expressions/functions-category-list)
 
 #### String Functions
 * [Splitting Strings in VBA](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/split-function)
