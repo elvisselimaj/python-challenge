@@ -1,7 +1,5 @@
 # Fizz Buzz
 
-## RANDOM PAIRING - Let's get to know your classmates!
-
 ## Instructions
 
 * Create a VBA Script that populates the second column with the word "Fizz", "Buzz", or "Fizzbuzz" based on the value in the first column.
