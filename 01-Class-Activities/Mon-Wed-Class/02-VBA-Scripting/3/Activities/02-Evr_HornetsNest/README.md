@@ -1,7 +1,5 @@
 # Hornets Nest
 
-## AND ANOTHER RANDOM PAIRING! - Let's get to know your classmates!
-
 ## Instructions
 
 * Create a VBA script to handle the growing Hornet infestation in your spreadsheet.

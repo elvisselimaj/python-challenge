@@ -1,7 +1,5 @@
 # The VBA Lotto
 
-## ANOTHER RANDOM PAIRING - Let's get to know your classmates!
-
 ## Instructions
 
 * You are in charge of finding our winners for a local lotto drawing.
