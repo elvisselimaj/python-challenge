@@ -33,31 +33,40 @@ This unit will start out with core features of Python, such as variable declarat
 
 ### Helpful Links
 
+#### Getting Started
 * [Python - Beginner](https://www.learnpython.org/)
-
 * [Python Scripting](https://automatetheboringstuff.com/)
+* [Spyder IDE](https://docs.spyder-ide.org/overview.html)
 
-* [Python f-strings](https://www.python.org/dev/peps/pep-0498/)
+#### Control Flow
+* [Python Control Flows](https://docs.python.org/3/tutorial/controlflow.html?highlight=loop)
+(`if` statements, `for` loops, `range` functions, etc.)
 
+#### Data Structures
 * [Python DataStructures](https://docs.python.org/3/tutorial/datastructures.html)
-
 * [Python CSV Module](https://docs.python.org/3/library/csv.html)
 
-* [Git/Github](https://github.com/Multishifties/No-Nonsense-Github-Project)
-
-* [Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
-
+#### Strings
 * [Python 3's f-Strings](https://realpython.com/python-f-strings/)
 
-### Additional Course Resources
+#### Other
+* [Python os.path](https://docs.python.org/3/library/os.path.html#module-os.path) (More about working with os.path for working with files and paths)
+* [Introduction to Unicode](https://docs.python.org/3/howto/unicode.html) (Helpful to learn more about character encoding)
 
-* [Python CheatSheet](Supplemental/Python_Reference_Guide.pdf)
+### Additional Unit Resources
 
-* [Python-GettingStarted.md](Supplemental/Python-GettingStarted.md)
+* [Python CheatSheet](Python_Resources/Python_Reference_Guide.pdf)
+* [Python-GettingStarted.md](Python_Resources/Python-GettingStarted.md)
+* [Virtual Environments](Python_Resources/conda_pip.pdf)
+* [Conda Cheatsheet](Python_Resources/conda-cheatsheet.pdf)
 
-* [Virtual Environments](Supplemental/conda_pip.pdf)
+### Supplemental Resources
 
-* [Conda Cheatsheet](Supplemental/conda-cheatsheet.pdf)
+* [Git/Github](https://github.com/Multishifties/No-Nonsense-Github-Project)
+* [Visual Git Guide](http://marklodato.github.io/visual-git-guide/index-en.html)
+* [Data Cleansing Definition](https://en.wikipedia.org/wiki/Data_cleansing)
+* [Data Cleansing common guidelines](https://blog.hubspot.com/customers/5-phases-cleaning-hubspot-crm-data)
+* [Data cleansing principles for marketing](https://www.marketingrockstarguides.com/six-principles-data-cleanliness-1566/)
 
 - - -
 
