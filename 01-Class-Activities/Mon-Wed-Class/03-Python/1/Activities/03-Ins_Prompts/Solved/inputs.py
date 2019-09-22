@@ -7,4 +7,3 @@ age = int(input("How old are you? "))
 # Creates three print statements that to respond with the output.
 print("My name is " + str(name))
 print("I will be " + str(age + 1) + " next year.")
-print("The input was converted to " + str(trueOrFalse))
