@@ -1,9 +1,16 @@
-# Wells Fargo - Part II
+# Wells Fargo - Combining Data
 
-* In this second part of the mini project project, you will be combining all of your previous Excel sheets into one massive table on a new sheet.
+* For this Homework task you will be combining all of your previous Excel sheets into one massive table on a new sheet.
+
+* Call the new sheet `Combined_Data`
 
 **Instructions**
 
-* Loop through every worksheet and select the state contents.
+* Using the starter code, develop a macro that will loop through every worksheet and select the contents of each worksheet (State, County, and the data for each of the years)
 
-* Copy the state contents and paste it into the Combined_Data tab
+* Copy all of the financial data from each the individual sheets and load into Combined_Data tab
+
+* When you have completed this task, there should be one large table that represents the financial data for each state and county and for years 2011 - 2015 (where the data is available)
+
+An example of the desired output is below:
+![Wells Fargo](../../Images/HW_Task3.gif)
