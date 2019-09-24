@@ -8,7 +8,7 @@ for x in range(20, 30):
     print(x)
 
 # If a list is provided, then the For loop will loop through each element within the list
-words = ["I", "Love", "Coding", "In", "Python", "Especially", "With", "Dart"]
+words = ["Peanut", "Butter", "Jelly", "Time", "Is", "Now"]
 for word in words:
     print(word)
 

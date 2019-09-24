@@ -17,9 +17,14 @@ for letters in word:
 
 print("----------------------------------------")
 
+print(word[3])
+
+print("----------------------------------------")
+
 # Iterate through a list
 zoo = ["cow", "dog", "bee", "zebra"]
 for animal in zoo:
+    print("Animal is:")
     print(animal)
 
 print("----------------------------------------")

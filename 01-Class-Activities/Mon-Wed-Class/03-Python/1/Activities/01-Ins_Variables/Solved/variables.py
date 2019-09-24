@@ -23,4 +23,4 @@ print("Expert status: " + str(expert_status))
 print(f"Expert status: {expert_status}")
 
 # Another example of using f-strings
-print(f"{name} loves working as a {title}")
+print(f"{name} loves working as a {title} and is {years} years in the game")
