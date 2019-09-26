@@ -3,7 +3,7 @@ import os
 import csv
 
 # Specify the file to write to
-output_path = os.path.join("..", "output", "new.csv")
+output_path = os.path.join("..", "output", "dart.csv")
 
 # Open the file using "write" mode. Specify the variable to hold the contents
 with open(output_path, 'w', newline='') as csvfile:
@@ -16,3 +16,6 @@ with open(output_path, 'w', newline='') as csvfile:
 
     # Write the second row
     csvwriter.writerow(['Caleb', 'Frost', '505-80-2901'])
+
+    # Write the third row
+    csvwriter.writerow(['Jack', 'Frost', '982-80-9817'])

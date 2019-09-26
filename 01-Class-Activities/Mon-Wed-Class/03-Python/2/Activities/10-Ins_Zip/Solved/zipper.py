@@ -2,9 +2,9 @@ import csv
 import os
 
 # Three Lists
-indexes = [1, 2, 3, 4]
+indexes = [1, 2, 3, 4, 5]
 employees = ["Michael", "Dwight", "Meredith", "Kelly"]
-department = ["Boss", "Sales", "Sales", "HR"]
+department = ["Boss", "Sales", "Sales", "HR", "Product"]
 
 # Zip all three lists together into tuples
 roster = zip(indexes, employees, department)
@@ -19,7 +19,6 @@ with open(output_file, "w", newline="") as datafile:
     writer.writerow(["Index", "Employee", "Department"])
 
     writer.writerows(roster)
-
 
 # # to print out to terminal:
 # #comment out above code and run the code below

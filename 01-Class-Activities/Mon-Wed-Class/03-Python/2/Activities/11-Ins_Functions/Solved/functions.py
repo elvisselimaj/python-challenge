@@ -20,6 +20,7 @@ printName("Bob Smith")
 # The prime use case for functions is in being able to run the same code for different values
 listOne = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 listTwo = [11, 12, 13, 14, 15]
+listThree = [101, 120, 130]
 
 
 def listInformation(simpleList):
@@ -31,3 +32,4 @@ def listInformation(simpleList):
 
 listInformation(listOne)
 listInformation(listTwo)
+listInformation(listThree)
