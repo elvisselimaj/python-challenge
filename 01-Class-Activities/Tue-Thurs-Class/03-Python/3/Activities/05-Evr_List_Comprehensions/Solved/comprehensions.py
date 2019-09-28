@@ -1,4 +1,4 @@
-word = "halibut"
+word = "dartanion"
 
 # Loop through each letter in the string
 # and push to an array
