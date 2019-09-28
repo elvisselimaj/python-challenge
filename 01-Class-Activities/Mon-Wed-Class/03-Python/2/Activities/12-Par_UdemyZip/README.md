@@ -10,7 +10,7 @@
 
 * Finally, write the contents of your extracted data into a CSV. Make sure to include the titles of these columns in your csv.
 
-## Notes:
+## Notes
 
 * Windows users may get an `UnicodeDecodeError`, to avoid this file pass in `encoding="utf8"` as an additional parameter when reading in the file.
 
