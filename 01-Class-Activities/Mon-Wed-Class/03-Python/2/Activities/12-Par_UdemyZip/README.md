@@ -12,6 +12,7 @@
 
 ## Notes:
 
+
 * Windows users may get an `UnicodeDecodeError`, to avoid this file pass in `encoding="utf8"` as an additional parameter when reading in the file.
 
 * As, with many datasets, the file does not include the header line. Use the below as a guide on the columns: "id,title,url,isPaid,price,numSubscribers,numReviews,numPublishedLectures,instructionalLevel,contentInfo,publishedTime"
