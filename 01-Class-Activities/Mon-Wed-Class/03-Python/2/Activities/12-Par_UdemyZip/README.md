@@ -2,7 +2,7 @@
 
 ## Instructions
 
-* Create a Python application that reads the data on Udemy Web Development offerings. 
+* Create a Python application that reads the data on Udemy Web Development offerings.
 
 * Then store the contents of the Title, Price, Subscriber Count, Number of Reviews, and Course Length into Python Lists.
 
@@ -12,7 +12,7 @@
 
 ## Notes:
 
-* Windows user may get an `UnicodeDecodeError`, to avoid this file pass in `encoding="utf8"` as an additional parameter when reading in the file.
+* Windows users may get an `UnicodeDecodeError`, to avoid this file pass in `encoding="utf8"` as an additional parameter when reading in the file.
 
 * As, with many datasets, the file does not include the header line. Use the below as a guide on the columns: "id,title,url,isPaid,price,numSubscribers,numReviews,numPublishedLectures,instructionalLevel,contentInfo,publishedTime"
 
