@@ -21,7 +21,8 @@ with open(udemy_csv, encoding = 'utf-8') as csvfile:
         reviews.append(row[6])
         length.append(row[9])
 
-zipped_data = zip(title, price, subscribers, reviews, length) 
+
+zipped_data = zip(title,price, subscribers, reviews, length) 
 
 output_file = os.path.join("dart_web_final.csv")
 

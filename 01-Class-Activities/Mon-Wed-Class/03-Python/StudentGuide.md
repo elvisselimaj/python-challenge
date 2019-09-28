@@ -8,28 +8,21 @@ This unit will start out with core features of Python, such as variable declarat
 
 ### Course Objectives
 
+#### Day 1
 * Be able to navigate the desktop via the terminal.
 * Create Python scripts and run them in terminal.
 * Begin to understand programming concepts in Python.
+
+#### Day 2
 * Feel confident reading data into Python from CSV files.
 * Feel confident writing data from Python into CSV files.
 * Know how to zip two lists together and when this is helpful.
+
+#### Day 3
 * Have a firm understanding on how to create and use Python functions.
 * Be able to create and use Python dictionaries.
 * Be able to read data in from a dictionary.
 * Have a firm understanding of coding logic and reasoning.
-
-### Key Activities
-
-* [Rock Paper Scissors](1/Activities/10-Stu_RockPaperScissors)
-
-* [Number Chaining](1/Activities/12-Stu_NumberChain)
-
-* [Read Netflix](2/Activities/08-Stu_ReadNetFlix)
-
-* [Udemy Zip](2/Activities/11-Stu_UdemyZip)
-
-* [HobbyBook](3/Activities/03-Stu_HobbyBook)
 
 ### Helpful Links
 
@@ -37,6 +30,9 @@ This unit will start out with core features of Python, such as variable declarat
 * [Python - Beginner](https://www.learnpython.org/)
 * [Python Scripting](https://automatetheboringstuff.com/)
 * [Spyder IDE](https://docs.spyder-ide.org/overview.html)
+
+#### Python Reference and Built-In Functions
+* [Python Reference and Built-In Functions](https://www.w3schools.com/python/python_reference.asp)
 
 #### Control Flow
 * [Python Control Flows](https://docs.python.org/3/tutorial/controlflow.html?highlight=loop)
@@ -55,10 +51,10 @@ This unit will start out with core features of Python, such as variable declarat
 
 ### Additional Unit Resources
 
-* [Python CheatSheet](Python_Resources/Python_Reference_Guide.pdf)
-* [Python-GettingStarted.md](Python_Resources/Python-GettingStarted.md)
-* [Virtual Environments](Python_Resources/conda_pip.pdf)
-* [Conda Cheatsheet](Python_Resources/conda-cheatsheet.pdf)
+* [Python CheatSheet](Resources/Python_Reference_Guide.pdf)
+* [Python-GettingStarted.md](Resources/Other-Reference/Python_Resources/Python-GettingStarted.md)
+* [Virtual Environments](Python_Resources/Other-Reference/conda_pip.pdf)
+* [Conda Cheatsheet](Python_Resources/Other-Reference/conda-cheatsheet.pdf)
 
 ### Supplemental Resources
 
