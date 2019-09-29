@@ -9,7 +9,7 @@ actors = ["Tom Cruise",
 
 # A dictionary of an actor
 actor = {"name": "Tom Cruise"}
-print(f'{actor["name"]}')
+print(f'{actor["name"]} is an amazing actor.')
 
 # ---------------------------------------------------------------
 
@@ -19,6 +19,8 @@ actress = {
     "genre": "Action",
     "nationality": "United States"
 }
+
+print(actress["genre"] + " is an amazing genre.")
 
 # ---------------------------------------------------------------
 

@@ -39,9 +39,6 @@ def print_percentages(wrestler_data):
     print(f"{name} is a {type_of_wrestler}")
 
 
-# Prompt the user for what wrestler they would like to search for
-name_to_check = input("What wrestler do you want to look for? ")
-
 # Read in the CSV file
 with open(wrestling_csv, 'r') as csvfile:
 
@@ -50,11 +47,12 @@ with open(wrestling_csv, 'r') as csvfile:
 
     header = next(csvreader)
 
+    # Prompt the user for what wrestler they would like to search for
+    name_to_check = input("What wrestler do you want to look for? ")
+
     # Loop through the data
     for row in csvreader:
 
-        wrestler_name = row[0]
-        
         # If the wrestler's name in a row is equal to that which the user input, run the 'print_percentages()' function
-        if name_to_check == wrestler_name:
+        if name_to_check == row[0]:
             print_percentages(row)

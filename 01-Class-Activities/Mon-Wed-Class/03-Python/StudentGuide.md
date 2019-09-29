@@ -39,7 +39,7 @@ This unit will start out with core features of Python, such as variable declarat
 (`if` statements, `for` loops, `range` functions, etc.)
 
 #### Data Structures
-* [Python DataStructures](https://docs.python.org/3/tutorial/datastructures.html)
+* [Python DataStructures (Lists, Tuples, Dictionaries, Sets, and More)](https://docs.python.org/3/tutorial/datastructures.html)
 * [Python CSV Module](https://docs.python.org/3/library/csv.html)
 
 #### Strings
