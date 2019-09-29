@@ -1,32 +1,51 @@
 import os
 import csv
 
-udemy_csv = os.path.join("..","Resources","web_starter.csv")
+udemy_csv = os.path.join("web_starter.csv")
 
+# Lists to store data
 title = []
 price = []
 subscribers = []
 reviews = []
+review_percent = []
 length = []
 
-with open(udemy_csv, encoding = 'utf-8') as csvfile:
+# with open(udemy_csv, newline="", encoding='utf-8') as csvfile:
+with open(udemy_csv, newline="") as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
-    
-    # loop through
     for row in csvreader:
-        
-        title.append(row[1])
-        price.append(row[4])
-        subscribers.append(row[5])
-        reviews.append(row[6])
-        length.append(row[9])
+        # Add title
+        # YOUR CODE HERE
 
-zipped_data = zip(title, price, subscribers, reviews, length) 
+        # Add price
+        # YOUR CODE HERE
 
-output_file = os.path.join("dart_web_final.csv")
+        # Add number of subscribers
+        # YOUR CODE HERE
 
-with open(output_file, "w", newline='') as datafile:
-        writer = csv.writer(datafile)
-        
-        writer.writerow(["Title","Price","Subscribers","Reviews","Length"])
-        writer.writerows(zipped_data)
+        # Add amount of reviews
+        # YOUR CODE HERE
+
+        # Determine percent of review left to 2 decimal places
+        # YOUR CODE HERE
+
+        # Get length of the course to just a number
+        # YOUR CODE HERE
+
+# Zip lists together
+# YOUR CODE HERE
+
+# Set variable for output file
+output_file = os.path.join("web_final.csv")
+
+#  Open the output file
+with open(output_file, "w", newline="") as datafile:
+    writer = csv.writer(datafile)
+
+    # Write the header row
+    writer.writerow(["Title", "Course Price", "Subscribers", "Reviews Left",
+                     "Percent of Reviews", "Length of Course"])
+
+    # Write in zipped rows
+    # YOUR CODE HERE
