@@ -8,7 +8,7 @@ import string
 from collections import Counter
 
 # Paths
-resume_path = os.path.join(".", "Resources", 'resume.md')
+resume_path = #YOUR CODE HERE#
 
 # Skills to match
 REQUIRED_SKILLS = {"excel", "python", "mysql", "statistics"}
