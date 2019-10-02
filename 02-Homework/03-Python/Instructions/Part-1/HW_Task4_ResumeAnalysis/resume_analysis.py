@@ -72,10 +72,12 @@ print("=============")
 # More info here: https://dbader.org/blog/meaning-of-underscores-in-python
 
 # Clean Punctuation
-_word_count = #YOUR CODE HERE#
+_word_count = #YOUR CODE HERE hint:
+# Hint: return only words that are not in string.punctuaton
+# Hint: consider using a list comprehension
 
 # Clean Stop Words
-stop_words = #YOUR CODE HERE#
+stop_words = ["and", "with", "using", "##", "working", "in", "to"]
 _word_count = #YOUR CODE HERE#
 
 # Sort words by count and print the top 10

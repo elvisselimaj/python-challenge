@@ -20,6 +20,9 @@ with open(filepath) as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         # YOUR CODE HERE
+        # Hint: You can use csv.DictReader
+        # This will require a little bit of independent research (by design)
+        # In the real world, you will encounter situations like this
 
 # Grab the filename from the original path
 _, filename = os.path.split(filepath)
@@ -28,3 +31,4 @@ _, filename = os.path.split(filepath)
 csvpath = os.path.join("output", filename)
 with open(csvpath, "w") as csvfile:
     # YOUR CODE HERE
+    # Hint: You can use csv.DictWriter
