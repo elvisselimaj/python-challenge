@@ -44,11 +44,11 @@ with open(file_to_load) as election_data:
         if candidate_name not in candidate_options:
 
             # Add it to the list of candidates in the running
-            # YOUR CODE HERE            
+            # YOUR CODE HERE
 
             # And begin tracking that candidate's voter count
             # YOUR CODE HERE
-                
+
         # Then add a vote to that candidate's count
         # YOUR CODE HERE
 
@@ -60,7 +60,7 @@ with open(file_to_output, "w") as txt_file:
 
     # Save the final vote count to the text file
     # YOUR CODE HERE
-                
+
     # Determine the winner by looping through the counts
     for candidate in candidate_votes:
 
@@ -69,11 +69,15 @@ with open(file_to_output, "w") as txt_file:
         vote_percentage = float(votes) / float(total_votes) * 100
 
         # Determine winning vote count and candidate
-        # YOUR CODE HERE
-        
+        if (votes > winning_count):
+            winning_count = votes
+            winning_candidate = candidate
+
         # Print each candidate's voter count and percentage (to terminal)
-        # YOUR CODE HERE
-                
+        voter_output = # YOUR CODE HERE. HINT: Print the `candidate`, a formatted version of `vote_percentage`, as well as the number of `votes` 
+        f"{candidate}: {vote_percentage:.3f}% ({votes})\n"
+        print(voter_output, end="")
+
         # Save each candidate's voter count and percentage to text file
         # YOUR CODE HERE
 
