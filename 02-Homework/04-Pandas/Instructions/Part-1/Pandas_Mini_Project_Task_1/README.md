@@ -76,4 +76,4 @@
 
     ![table formatting](../Images/6-table_formatting.png)
 
-  * This is a difficult project! Work with your team member to complete this.
+  * These instructions provide **a great deal of hints**! Work with your team member to complete this.
