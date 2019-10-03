@@ -6,9 +6,9 @@
 
 See the Part-1, Part-2, and Part-3 folders for the assignment details. All three parts are required for submission.
 
-* Part-1 is a mini-project. You should work with your randomly assigned partner to complete this. *Both tasks in this section are required.*
-* Part-2 is an analysis task. You and your partner should work together and analyze the code components in each cell. Your task will be to describe what is happening in each code block in clear and easy to understand language. Also, be sure to address any specific prompts that are asked. *All four tasks in this section are required.*
-* Part-3 contains two analysis cases. *Both tasks in this section are required.*
+* Part-1 is a mini-project. You should work with your randomly assigned partner to complete this. *Both tasks in this section are required.* You should also work with your partner on this part.
+* Part-2 is an analysis task. You and your partner should work together and analyze the code components in each cell. Your task will be to describe what is happening in each code block in clear and easy to understand language. Also, be sure to address any specific prompts that are asked. *All four tasks in this section are required.* Working with your partner on this part is optional, but you are encouraged to do so.
+* Part-3 contains two analysis cases. *Both tasks in this section are required.* Working with your partner on this part is optional is optional.
 
 **All three parts are required for your Python homework submission.**
 
