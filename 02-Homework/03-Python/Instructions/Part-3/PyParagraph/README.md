@@ -1,4 +1,4 @@
-# PyParagraph
+﻿# PyParagraph
 
 ![Language](Images/language.png)
 
@@ -27,7 +27,7 @@ Your task is to create a Python script to automate the analysis of any such pass
 ```output
 Paragraph Analysis
 -----------------
-Approximate Word Count: 122
+Approximate Word Count: 120
 Approximate Sentence Count: 5
 Average Letter Count: 4.6
 Average Sentence Length: 24.0
