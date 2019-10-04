@@ -1,10 +1,10 @@
-# Pandas Homework - Part 3, Task 1 - Pandas, Pandas, Pandas
+# Pandas Homework - Part 3, Task A - Heroes of Pymoli
 
 ## Background
 
 The data dive continues!
 
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one AND two** (both are required) data Challenges. Be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt. Tasl I has a considerable amount of starter code to assist you.
+Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **BOTH HeroesOfPymoli AND PyCitySchools** (both are required) data Challenges. Be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt. Tasl I has a considerable amount of starter code to assist you.
 
 ### Before You Begin
 
@@ -18,13 +18,13 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 5. Push the above changes to GitHub or GitLab.
 
-## Task 1: Heroes of Pymoli (required)
+## Task A: Heroes of Pymoli (required)
 
-See the details for this task in the Task-2 folder.
+See the details for this task in the Task-A-HeroesOfPymoli folder.
 
-## Task 2: Academy of Py (required)
+## Task B: Academy of Py (required)
 
-See the details for this task in the Task-2 folder.
+See the details for this task in the Task-B-PyCitySchools folder.
 
 ## Hints and Considerations
 

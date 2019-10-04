@@ -1,6 +1,6 @@
 ### Python Mini-Project: Data Clean-Up, Pt. 2
 
-* The second part of this project will  require you to clean and explore the same dataset in order to generate a very different set of summary data.
+* The second part of this project will require you to clean and explore the same dataset in order to generate a very different set of summary data.
 
 * The solution should look similar to this:
 
