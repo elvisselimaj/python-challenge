@@ -30,9 +30,6 @@ with open(file_to_load) as election_data:
     # For each row...
     for row in reader:
 
-        # Run the loader animation
-        print(". ", end=""),
-
         # Add to the total vote count
         total_votes = total_votes + 1
 
@@ -74,7 +71,7 @@ with open(file_to_output, "w") as txt_file:
             winning_candidate = candidate
 
         # Print each candidate's voter count and percentage (to terminal)
-        voter_output = # YOUR CODE HERE. HINT: Print the `candidate`, a formatted version of `vote_percentage`, as well as the number of `votes` 
+        voter_output = # YOUR CODE HERE. HINT: Print the `candidate`, a formatted version of `vote_percentage`, as well as the number of `votes`
         f"{candidate}: {vote_percentage:.3f}% ({votes})\n"
         print(voter_output, end="")
 
