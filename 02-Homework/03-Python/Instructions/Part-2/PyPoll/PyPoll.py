@@ -41,12 +41,15 @@ with open(file_to_load) as election_data:
         if candidate_name not in candidate_options:
 
             # Add it to the list of candidates in the running
+            # HINT: Use the append function
             # YOUR CODE HERE
 
             # And begin tracking that candidate's voter count
+            # HINT: Initialize candidate_votes[candidate_name] to 0
             # YOUR CODE HERE
 
         # Then add a vote to that candidate's count
+        # HINT: candidate_votes[candidate_name] += 1
         # YOUR CODE HERE
 
 # Print the results and export the data to our text file
@@ -54,8 +57,10 @@ with open(file_to_output, "w") as txt_file:
 
     # Print the final vote count (to terminal)
     # YOUR CODE HERE
+    # HINT: Print out the value of total_votes
 
     # Save the final vote count to the text file
+    # HINT: use txt_file.write(election_results)
     # YOUR CODE HERE
 
     # Determine the winner by looping through the counts
@@ -80,6 +85,7 @@ with open(file_to_output, "w") as txt_file:
 
     # Print the winning candidate (to terminal)
         # YOUR CODE HERE
+        # HINT: Print winning_candidate to the console
 
     # Save the winning candidate's name to the text file
     # YOUR CODE HERE
