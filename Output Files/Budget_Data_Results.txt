@@ -1,0 +1,5 @@
+Total revenue in both datasets is $38382578
+The number of months in both datasets is 86
+The average change in revenue is $-2315.12
+The greatest increase in Revenue is ($1170593) on Feb-2012
+The greatest decrease in Revenue is ($-1196225) on Sep-2013
