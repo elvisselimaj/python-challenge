@@ -1,6 +1,9 @@
 # .gitkeep
 .gitkeep
 
+# python config file
+config.py
+
 # nbgrader database file
 gradebook.db
 
@@ -9,7 +12,7 @@ gradebook.db
 
 # Idea
 .idea
-
+`
 # Editor
 .vscode
 
